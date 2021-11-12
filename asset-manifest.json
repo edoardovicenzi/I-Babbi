@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/I-Babbi/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/I-Babbi/static/js/main.e820aa91.chunk.js",
+    "main.js.map": "/I-Babbi/static/js/main.e820aa91.chunk.js.map",
+    "runtime-main.js": "/I-Babbi/static/js/runtime-main.e50997f8.js",
+    "runtime-main.js.map": "/I-Babbi/static/js/runtime-main.e50997f8.js.map",
+    "static/js/2.ecd66d14.chunk.js": "/I-Babbi/static/js/2.ecd66d14.chunk.js",
+    "static/js/2.ecd66d14.chunk.js.map": "/I-Babbi/static/js/2.ecd66d14.chunk.js.map",
+    "static/js/3.c80e1c68.chunk.js": "/I-Babbi/static/js/3.c80e1c68.chunk.js",
+    "static/js/3.c80e1c68.chunk.js.map": "/I-Babbi/static/js/3.c80e1c68.chunk.js.map",
+    "index.html": "/I-Babbi/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/I-Babbi/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.ecd66d14.chunk.js.LICENSE.txt": "/I-Babbi/static/js/2.ecd66d14.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/I-Babbi/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e50997f8.js",
+    "static/js/2.ecd66d14.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.e820aa91.chunk.js"
+  ]
+}
